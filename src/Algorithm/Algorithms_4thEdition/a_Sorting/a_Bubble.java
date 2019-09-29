@@ -16,9 +16,6 @@ import utils.SwapUtil;
  * Created by nibnait on 2016/9/23.
  */
 
-/**
- * 杜雨的提交
- */
 public class a_Bubble {
 
     public static void main(String[] args) {
